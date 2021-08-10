@@ -26,5 +26,6 @@ public class Test02 {
         System.out.println(s);
     }
     //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
+    //git@github.com:xiaopangyu123/test.git
 
 }
